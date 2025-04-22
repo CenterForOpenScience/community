@@ -6,15 +6,14 @@ These tags can be used across GitHub issues and Discord channels/messages to hel
 
 ## 🔰 Onboarding & Contribution Tags
 
-| **Tag**                 | **Definition**                                                                 | **Color (Hex)** |
+| **Tag**                 | **Definition**                                                                
 |-------------------------|-------------------------------------------------------------------------------|-----------------|
-| `good first issue`      | A beginner-friendly issue with a clear, limited scope. Great for new contributors. | `#7057ff`       |
-| `help wanted`           | The issue needs attention and contributors are welcome to take it on.         | `#008672`       |
-| `first-time contributor`| Especially suited for first-time open-source contributors.                   | `#bfdadc`       |
-| `question`              | A general question or clarification that can be addressed by the community.   | `#d876e3`       |
-| `documentation`         | Task related to improving or adding documentation.                            | `#006b75`       |
-| `discussion`            | Used for open-ended topics or threads needing input before coding.            | `#c2e0c6`       |
-
+| `good first issue`      | A beginner-friendly issue with a clear, limited scope. Great for new contributors. 
+| `help wanted`           | The issue needs attention and contributors are welcome to take it on.         
+| `first-time contributor`| Especially suited for first-time open-source contributors.                                                                                           
+| `documentation`         | Update or add user/developer docs                                                                         
+| `testing`               | 	Requires testing or QA feedback                            
+| `discussion`            | Needs community input before implementation                          
 ---
 
 ## 🛠️ Issue Type Tags
