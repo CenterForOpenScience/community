@@ -85,5 +85,4 @@ Additional context for Project management categories:
 | `high priority`   | Needs to be addressed soon; impacts core functionality.                                  | `#e11d21`       |
 | `medium priority` | Important but not urgent.                                                                | `#f9d0c4`       |
 | `low priority`    | Nice to have but not a blocker.                                                          | `#cccccc`       |
-| `major impact`    | Will significantly affect many users or systems.                                        | `#d4c5f9`       |
-| `minor impact`    | Small scope, low risk; unlikely to break anything.                                      | `#eeeeee`       |
+
