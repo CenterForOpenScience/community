@@ -29,19 +29,6 @@ These tags can be used across GitHub issues and Discord channels/messages to hel
 
 ---
 
-## 🧩 Component or Area Tags
-
-| **Tag**        | **Definition**                                               | **Color (Hex)** |
-|----------------|---------------------------------------------------------------|-----------------|
-| `backend`      | Issues related to server-side logic or APIs.                 | `#1d76db`       |
-| `frontend`     | Issues related to UI and client-side behavior.               | `#f7c6c7`       |
-| `auth`         | Authentication and login-related issues.                     | `#b60205`       |
-| `search`       | Issues related to search functionality.                      | `#0052cc`       |
-| `registrations`| Involves the registration or preregistration features.       | `#0b3d91`       |
-| `addons`       | Related to integrations with third-party tools or services.  | `#0366d6`       |
-
----
-
 ## 🧠 Skills & Language Tags
 
 | **Tag**               | **Definition**                                                                 | **Color (Hex)** |
