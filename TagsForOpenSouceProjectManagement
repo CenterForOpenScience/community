@@ -30,18 +30,6 @@ These tags can be used across GitHub issues and Discord channels/messages to hel
 
 ---
 
-## 📦 Priority & Impact Tags
-
-| **Tag**         | **Definition**                                                                          | **Color (Hex)** |
-|------------------|------------------------------------------------------------------------------------------|-----------------|
-| `high priority`   | Needs to be addressed soon; impacts core functionality.                                  | `#e11d21`       |
-| `medium priority` | Important but not urgent.                                                                | `#f9d0c4`       |
-| `low priority`    | Nice to have but not a blocker.                                                          | `#cccccc`       |
-| `major impact`    | Will significantly affect many users or systems.                                        | `#d4c5f9`       |
-| `minor impact`    | Small scope, low risk; unlikely to break anything.                                      | `#eeeeee`       |
-
----
-
 ## 🧩 Component or Area Tags
 
 | **Tag**        | **Definition**                                               | **Color (Hex)** |
@@ -87,3 +75,16 @@ Additional context for Project management categories:
 | `blocked`         | Work cannot continue due to dependencies or decisions.                                 | `#e99695`       |
 | `needs more info` | Issue lacks sufficient detail to take action.                                           | `#f9d0c4`       |
 | `wontfix`         | The team has decided not to address this issue.                                        | `#ffffff`       |
+
+
+---
+
+## 📦 Priority & Impact Tags
+
+| **Tag**         | **Definition**                                                                          | **Color (Hex)** |
+|------------------|------------------------------------------------------------------------------------------|-----------------|
+| `high priority`   | Needs to be addressed soon; impacts core functionality.                                  | `#e11d21`       |
+| `medium priority` | Important but not urgent.                                                                | `#f9d0c4`       |
+| `low priority`    | Nice to have but not a blocker.                                                          | `#cccccc`       |
+| `major impact`    | Will significantly affect many users or systems.                                        | `#d4c5f9`       |
+| `minor impact`    | Small scope, low risk; unlikely to break anything.                                      | `#eeeeee`       |
