@@ -74,7 +74,7 @@ Stay connected and get involved:
   Curious about what’s next for OSF? Check out the [COS Product Roadmap](https://www.cos.io/product-roadmap).
 
 - **Understanding GitHub Labels:**  
-  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](#link-to-doc) [link coming soon].
+  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](https://github.com/CenterForOpenScience/community/blob/main/TagsForOpenSouceProjectManagement).
 
 All skill levels and backgrounds are welcome—whether you're a developer, researcher, librarian, or just open science curious.
 ---
