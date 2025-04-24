@@ -1,4 +1,4 @@
-***readme is currently being developed and links may not be active***
+***readme is currently being developed and links may not be active today***
 # 👋 Welcome to the Center for Open Science GitHub
 
 We’re so glad you’re here!
