@@ -34,7 +34,7 @@ The [Open Science Framework (OSF)](https://osf.io) is a free, open-source platfo
 OSF is powered by several open-source repositories maintained here on GitHub. These services work together to deliver OSF's platform functionality:
 
 - [`osf.io`](https://github.com/CenterForOpenScience/osf.io)[link coming soon] – The core backend platform (Python/Django)
-- [`osf-angular`](https://github.com/CenterForOpenScience/osf-angular) [link coming soon]– The modern Angular-based frontend 
+- [`osf-angular`](https://github.com/CenterForOpenScience/angular-osf) – The modern Angular-based frontend 
 - [`waterbutler`](https://github.com/CenterForOpenScience/waterbutler) – Unified file storage and transfer API
 - [`gravy-valet`](https://github.com/CenterForOpenScience/gravyvalet) – Add-on integrations and service coordination
 
