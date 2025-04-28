@@ -56,12 +56,14 @@ Please read our [Governance Document](https://github.com/CenterForOpenScience/co
 
 ## 💬 Join the Community
 
-Stay connected and get involved:
+We’re building an open and welcoming community around this project — and we’re excited to invite broader participation soon!
 
-- 💬 [Join our Discord community]() for real-time conversation and collaboration
-- 🎓 Attend our **monthly onboarding webinars** to learn how to contribute and explore the OSF ecosystem
-- 🧪 Participate in **beta testing** and help improve features before they launch
-- 💡 Share your ideas, feedback, and integration requests to help shape the future of OSF
+🚀 **Please note:**  
+Right now, our community space is private while we kickstart a few initial projects and set the foundation for future collaboration. We expect to open the community to the public once the first projects are up and running.
+
+If you're interested in staying in the loop or receiving an early invite when we launch, feel free to reach out to us! You can email our Technical community manager directly if you are interested in participating (daniel@cos.io).
+
+Thanks for your interest and excitement — we’re just getting started!
 
 ---
 
