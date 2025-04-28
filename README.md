@@ -58,7 +58,7 @@ Please read our [Governance Document](https://github.com/CenterForOpenScience/co
 
 Stay connected and get involved:
 
-- 💬 [Join our Discord community](https://discord.gg/KDWasAks5y) for real-time conversation and collaboration
+- 💬 [Join our Discord community]() for real-time conversation and collaboration
 - 🎓 Attend our **monthly onboarding webinars** to learn how to contribute and explore the OSF ecosystem
 - 🧪 Participate in **beta testing** and help improve features before they launch
 - 💡 Share your ideas, feedback, and integration requests to help shape the future of OSF
