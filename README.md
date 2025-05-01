@@ -1,4 +1,4 @@
-***readme is currently being developed and links may not be active today***
+
 # 👋 Welcome to the Center for Open Science GitHub
 
 We’re so glad you’re here!
@@ -61,7 +61,9 @@ We’re building an open and welcoming community around this project — and we�
 🚀 **Please note:**  
 Right now, our community space is private while we kickstart a few initial projects and set the foundation for future collaboration. We expect to open the community to the public once the first projects are up and running.
 
-If you're interested in staying in the loop or receiving an early invite when we launch, feel free to reach out to us! You can fill out our intake form (https://docs.google.com/forms/d/e/1FAIpQLScJPiJFX5j8ey15eIYtTGOOog61WO9q1hA9ADayjPzvgBS6Ig/viewform?usp=sharing) or You can email our Technical community manager directly if you are interested in participating (daniel@cos.io).
+If you're interested in staying in the loop or receiving an early invite when we launch, feel free to reach out to us! You can fill out our [Community intake form](https://docs.google.com/forms/d/e/1FAIpQLScJPiJFX5j8ey15eIYtTGOOog61WO9q1hA9ADayjPzvgBS6Ig/viewform?usp=sharing) or You can email our Technical community manager directly if you are interested in participating (daniel@cos.io).
+
+If you are interested in joining our beta tester community, consider filling out our [OSF Technology Advocate Form](https://forms.gle/gUxKeDccn6Vgnoat9)
 
 Thanks for your interest and excitement — we’re just getting started!
 
