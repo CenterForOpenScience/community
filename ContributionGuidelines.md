@@ -11,7 +11,7 @@ Contributions from the community help improve OSF and make open science more acc
 
 ## 2. Code of Conduct
 
-All community members must adhere to the **[OSF Code of Conduct](#)**, which outlines expected behavior and guidelines for respectful interactions.
+All community members must adhere to the **[OSF Code of Conduct](https://www.cos.io/events-code-of-conduct)**, which outlines expected behavior and guidelines for respectful interactions.
 
 The Code of Conduct applies to all contributors, maintainers, and users engaging with the OSF community.  
 Please review it before participating.
